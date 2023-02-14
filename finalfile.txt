@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is not the final file
-=======
 final file added
->>>>>>> main
